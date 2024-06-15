@@ -20,24 +20,6 @@ This repository contains the HTML, CSS, and JavaScript code for an e-commerce pr
 - Background image for the entire page
 - Lift-up hover effect on the Add button
 
-## Getting Started
-
-### Prerequisites
-
-You need a web browser to run this project.
-
-### Installation
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/todo-list.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd todo-list
-    ```
-3. Open `index.html` in your web browser.
-
 ## Files
 
 - `index.html` - The main HTML file
