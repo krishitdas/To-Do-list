@@ -5,7 +5,6 @@ A simple, elegant To-Do List web application built with HTML, CSS, and JavaScrip
 
 ![To-Do list](preview.png)
 
-This repository contains the HTML, CSS, and JavaScript code for an e-commerce product page. The page is designed to provide a visually appealing and responsive interface for showcasing products, complete with an image gallery, product details, offers, and interactive elements.
 
 ## Dive into the project
 [<img src="./link.png" width="60px" alt="link-icon">](https://krishitdas.github.io/To-Do-list/)<span><em>(Tap on 🔗 icon to view the project)</em></span>
